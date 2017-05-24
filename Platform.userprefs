@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0D5296DC-0E42-41C3-B621-5C929A22C335}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Platform/Model/Circle.cs">
+    <Files>
+      <File FileName="Platform/View/Animation.cs" Line="13" Column="19" />
+      <File FileName="Platform/View/AnimationPlayer.cs" Line="14" Column="19" />
+      <File FileName="Platform/View/RectangleExtensions.cs" Line="13" Column="19" />
+      <File FileName="Platform/Model/Tile.cs" Line="14" Column="19" />
+      <File FileName="Platform/Model/Player.cs" Line="276" Column="4" />
+      <File FileName="Platform/Model/Level.cs" Line="177" Column="9" />
+      <File FileName="Platform/Model/Gem.cs" Line="15" Column="19" />
+      <File FileName="Platform/Model/Enemy.cs" Line="59" Column="3" />
+      <File FileName="Platform/Model/Circle.cs" Line="18" Column="18" />
+      <File FileName="Platform/Controller/PlatformerGame.cs" Line="78" Column="4" />
+      <File FileName="Platform/Controller/Game1.cs" Line="1" Column="1" />
+      <File FileName="Platform/Controller/Program.cs" Line="28" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Platform PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
